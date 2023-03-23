@@ -3,6 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	Topic example = new Topic(2.1,"function",10,2,12,1);
     }
 }
